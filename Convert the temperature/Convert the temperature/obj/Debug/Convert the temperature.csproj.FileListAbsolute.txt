@@ -1,0 +1,10 @@
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\bin\Debug\Convert the temperature.exe.config
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\bin\Debug\Convert the temperature.exe
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\bin\Debug\Convert the temperature.pdb
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\obj\Debug\Convert the temperature.csproj.AssemblyReference.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\obj\Debug\Convert_the_temperature.Form1.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\obj\Debug\Convert_the_temperature.Properties.Resources.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\obj\Debug\Convert the temperature.csproj.GenerateResource.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\obj\Debug\Convert the temperature.csproj.CoreCompileInputs.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\obj\Debug\Convert the temperature.exe
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Convert the temperature\Convert the temperature\obj\Debug\Convert the temperature.pdb
